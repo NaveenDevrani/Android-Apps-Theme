@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ed2121</color>
+    <color name="primarydark">#da7e7e</color>
+    <color name="color_accent">#200202</color>
+    <color name="navigation">#1e0202</color>
+</resources>
